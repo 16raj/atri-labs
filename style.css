@@ -1,0 +1,5572 @@
+
+          
+          .form-field_formfield__MkJga {
+            border: none;
+          }
+          .form-field_formfield__MkJga:active {
+            outline: #fcd34d solid 1px;
+          }
+          .form-field_formfield__MkJga:focus-visible {
+            outline: #fcd34d solid 1px;
+          }
+          
+          .button_danger__gr6NE {
+            background-color: #be185d;
+            font-family: "Inter", sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 0.75rem;
+            line-height: 1rem;
+            color: #fdf2f8;
+            padding: 0.5rem 1rem;
+            border: none;
+          }
+          
+          .button_cancel__SU3y5 {
+            background-color: #6b7280;
+            font-family: "Inter", sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 0.75rem;
+            line-height: 1rem;
+            color: #e5e7eb;
+            padding: 0.5rem 1rem;
+            border: none;
+          }
+          
+          
+          .carousel {
+            overflow: hidden;
+          }
+          
+          .inner {
+            white-space: nowrap;
+            transition: transform 0.3s;
+          }
+          
+          .carousel-item {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            height: 200px;
+            background-color: #364d79;
+            color: #fff;
+          }
+          
+          .indicators {
+            display: flex;
+            justify-content: center;
+          }
+          
+          .indicators button {
+            margin: 5px;
+            border: none;
+            width: 30px !important;
+            margin-top: -15px !important;
+            position: relative;
+            z-index: 1;
+            height: 1px;
+            transition: width 0.3s ease-in;
+          }
+          
+          .indicators button.active {
+            color: #fff;
+            width: 40px !important;
+          }
+          
+          .pikachu.Flex1 {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #696969;
+          padding-top: 20px;
+          padding-bottom: 30px;
+          }
+          .pikachu.Flex2 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          align-items: center;
+          }
+          .pikachu.Flex4 {
+          display: flex;
+          }
+          .pikachu.Flex138 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex3 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Menu1 {
+          
+          }
+          .pikachu.Flex139 {
+          display: flex;
+          }
+          .pikachu.Flex5 {
+          display: flex;
+          }
+          .pikachu.Flex6 {
+          display: flex;
+          flex-direction: column;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 40px;
+        
+          row-gap: 20px;
+          padding-left: 150px;
+          
+          padding-top: 100px;
+          flex-grow: 1;
+          align-items: flex-start;
+          }
+          .pikachu.Flex8 {
+          display: flex;
+          }
+          .pikachu.Flex9 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex10 {
+          display: flex;
+          flex-direction: column;
+          font-size: 50px;
+          }
+          .pikachu.Flex7 {
+          display: flex;
+          background-color: #FF7629;
+          
+          }
+          .pikachu.Flex11 {
+          display: flex;
+          justify-content: center;
+          padding-top: 75px;
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 21px;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 20px;
+          }
+          .pikachu.Flex12 {
+          display: flex;
+          -moz-column-gap: 60px;
+               column-gap: 60px;
+          }
+          .pikachu.Flex371 {
+          display: flex;
+          -moz-column-gap: 60px;
+               column-gap: 60px;
+          }
+          .pikachu.Flex373 {
+          display: flex;
+          -moz-column-gap: 60px;
+               column-gap: 60px;
+          }
+          .pikachu.Flex13 {
+          display: flex;
+          padding-top: 150px;
+          flex-direction: column;
+          justify-content: flex-start;
+          align-items: center;
+          font-family: DM Sans;
+          row-gap: 40px;
+          padding-bottom: 100px;
+          }
+          .pikachu.Flex14 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex365 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex15 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 20px;
+          border-radius: 15px;
+          border-style: solid;
+          border-color: #cecece;
+          padding-top: 40px;
+          padding-bottom: 40px;
+          }
+          .pikachu.Flex366 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 20px;
+          border-radius: 15px;
+          border-style: solid;
+          border-color: #cecece;
+          padding-top: 40px;
+          padding-bottom: 40px;
+          }
+          .pikachu.Flex367 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex21 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 20px;
+          border-radius: 15px;
+          border-style: solid;
+          border-color: #cecece;
+          padding-top: 40px;
+          padding-bottom: 40px;
+          }
+          .pikachu.Flex368 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 20px;
+          border-radius: 15px;
+          border-style: solid;
+          border-color: #cecece;
+          padding-top: 40px;
+          padding-bottom: 40px;
+          }
+          .pikachu.Flex25 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex26 {
+          display: flex;
+          background-color: #FFF9F3;
+          padding-top: 150px;
+          padding-left: 150px;
+          
+          box-sizing: content-box;
+          align-items: flex-start;
+          justify-content: center;
+          flex-wrap: nowrap;
+          align-content: stretch;
+          }
+          .pikachu.Flex27 {
+          display: flex;
+          align-items: center;
+          padding-bottom: 200px;
+          
+          width: 50%;
+          box-sizing: content-box;
+          }
+          .pikachu.Flex29 {
+          display: flex;
+          background-color: #ffffff;
+          flex-direction: column;
+          padding-left: 50px;
+          padding-right: 20px;
+          padding-top: 50px;
+          padding-bottom: 50px;
+          position: relative;
+          border-radius: 25px;
+          row-gap: 20px;
+          font-family: DM Sans;
+          font-weight: 500;
+          top: 200px;
+          right: 300px;
+          box-sizing: border-box;
+          }
+          .pikachu.Flex30 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          width: 350px;
+          }
+          .pikachu.Flex32 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          width: 300px;
+          }
+          .pikachu.Flex35 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          width: 300px;
+          }
+          .pikachu.Flex28 {
+          display: flex;
+          flex-grow: 1;
+          align-items: flex-start;
+          padding-top: 100px;
+          flex-direction: column;
+          
+          row-gap: 25px;
+          width: 50%;
+          }
+          .pikachu.Flex37 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex38 {
+          display: flex;
+          padding-top: 150px;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          row-gap: 20px;
+          }
+          .pikachu.Flex39 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 30px;
+          }
+          .pikachu.Flex40 {
+          display: flex;
+          row-gap: px;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .pikachu.Flex297 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Product_Card_1 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex42 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Product_Card_2 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex43 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Flex298 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Product_Card_3 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex45 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Product_Card_4 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex47 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Flex57 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .pikachu.Flex299 {
+          display: flex;
+         
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Product_Card_6 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex51 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Product_Card_5 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex52 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Flex300 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Product_Card_8 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex49 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Product_Card_7 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .pikachu.Flex50 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .pikachu.Flex58 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          justify-content: center;
+          
+          padding-bottom: 200px;
+          }
+          .pikachu.Flex59 {
+          display: flex;
+          justify-content: flex-start;
+          align-items: stretch;
+          }
+          .pikachu.Flex60 {
+          display: flex;
+          flex-direction: column;
+          
+          background-color: #FF7629;
+          align-items: flex-start;
+          justify-content: center;
+          padding-top: 90px;
+          padding-bottom: 100px;
+          row-gap: 33px;
+          padding-left: 150px;
+          
+          box-sizing: border-box;
+          }
+          .pikachu.Flex62 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex61 {
+          display: flex;
+          
+          }
+          .pikachu.Flex63 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          padding-top: 150px;
+          padding-bottom: 150px;
+          row-gap: 20px;
+          }
+          .pikachu.Flex69 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex89 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          -moz-column-gap: 50px;
+               column-gap: 50px;
+          }
+          .pikachu.Flex64 {
+          display: flex;
+          padding-bottom: 40px;
+          flex-direction: column;
+          width: 50%;
+          padding-left: 50px;
+          padding-top: 50px;
+          padding-right: 50px;
+          box-sizing: border-box;
+          row-gap: 10px;
+          border-radius: 25px;
+          border-style: solid;
+          border-color: #d5d5d5;
+          }
+          .pikachu.Flex65 {
+          display: flex;
+          
+          flex-direction: row;
+          -moz-column-gap: 8px;
+               column-gap: 8px;
+          }
+          .pikachu.Flex131 {
+          display: flex;
+          }
+          .pikachu.Flex132 {
+          display: flex;
+          }
+          .pikachu.Flex133 {
+          display: flex;
+          }
+          .pikachu.Flex134 {
+          display: flex;
+          }
+          .pikachu.Flex135 {
+          display: flex;
+          }
+          .pikachu.Flex67 {
+          display: flex;
+          padding-top: 10px;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          align-items: center;
+          }
+          .pikachu.Flex68 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 2px;
+          }
+          .pikachu.Flex128 {
+          display: flex;
+          }
+          .pikachu.Flex129 {
+          display: flex;
+          }
+          .pikachu.Flex130 {
+          display: flex;
+          }
+          .pikachu.Flex71 {
+          display: flex;
+          padding-top: 150px;
+          background-color: #FFF9F3;
+          padding-left: 100px;
+          padding-right: 100px;
+          flex-direction: column;
+          width: 100%;
+          box-sizing: border-box;
+          padding-bottom: 100px;
+          }
+          .pikachu.Flex72 {
+          display: flex;
+          width: 100%;
+          align-items: center;
+          justify-content: space-between;
+          
+          padding-bottom: 30px;
+          box-sizing: content-box;
+          }
+          .pikachu.Flex73 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 35px;
+          background-color: #ffffff;
+          }
+          .pikachu.Flex74 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex75 {
+          display: flex;
+          width: 50%;
+          flex-direction: column;
+          background-color: #fffefe;
+          row-gap: 10px;
+          border-radius: 35px;
+          }
+          .pikachu.Flex76 {
+          display: flex;
+          width: 60%;
+          flex-direction: column;
+          row-gap: 30px;
+          }
+          .pikachu.Flex77 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          align-items: center;
+          justify-content: center;
+          }
+          .pikachu.Flex81 {
+          display: flex;
+          width: 40%;
+          flex-direction: column;
+          background-color: #fffefe;
+          row-gap: 10px;
+          border-radius: 35px;
+          padding-bottom: 20px;
+          }
+          .pikachu.Flex82 {
+          display: flex;
+          width: 40%;
+          flex-direction: column;
+          background-color: #fffefe;
+          row-gap: 10px;
+          border-radius: 35px;
+          padding-bottom: 20px;
+          }
+          .pikachu.Flex85 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          justify-content: center;
+          align-items: center;
+          }
+          .pikachu.Flex83 {
+          display: flex;
+          width: 40%;
+          flex-direction: column;
+          background-color: #fffefe;
+          row-gap: 10px;
+          border-radius: 35px;
+          
+          padding-bottom: 20px;
+          }
+          .pikachu.Flex84 {
+          display: flex;
+          width: 40%;
+          flex-direction: column;
+          background-color: #fffefe;
+          row-gap: 10px;
+          border-radius: 35px;
+          padding-bottom: 20px;
+          align-items: flex-start;
+          }
+          .pikachu.Flex90 {
+          display: flex;
+          
+          }
+          .pikachu.Flex91 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: center;
+          row-gap: 20px;
+          padding-top: 100px;
+          padding-left: 150px;
+          padding-bottom: 100px;
+          width: 50%;
+          }
+          .pikachu.Flex93 {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 50%;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .pikachu.Flex94 {
+          display: flex;
+          align-items: center;
+          width: 50%;
+          -moz-column-gap: 19px;
+               column-gap: 19px;
+          }
+          .pikachu.Flex95 {
+          display: flex;
+          align-items: center;
+          width: 50%;
+          -moz-column-gap: 21px;
+               column-gap: 21px;
+          }
+          .pikachu.Flex92 {
+          display: flex;
+          background-color: #FF7629;
+          align-items: flex-start;
+          padding-top: 100px;
+          padding-bottom: 100px;
+          width: 50%;
+          }
+          .pikachu.Flex98 {
+          display: flex;
+          background-color: #ffffff;
+          flex-direction: column;
+          padding-left: 50px;
+          padding-right: 50px;
+          padding-top: 80px;
+          row-gap: 30px;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          
+          padding-bottom: 30px;
+          position: relative;
+          right: 140px;
+          border-radius: 40px;
+          border-style: solid;
+          border-color: #d9d4d4;
+          }
+          .pikachu.Flex99 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex100 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex101 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex104 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex102 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex103 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex107 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex105 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex106 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex108 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex137 {
+          
+          }
+          .pikachu.Flex110 {
+          display: flex;
+          background-color: #FFF9F3;
+          padding-left: 100px;
+          padding-right: 100px;
+          align-items: center;
+          padding-top: 150px;
+          flex-direction: column;
+          padding-bottom: 150px;
+          }
+          .pikachu.Flex112 {
+          display: flex;
+          width: 100%;
+          align-items: center;
+          justify-content: space-between;
+          
+          padding-bottom: 30px;
+          
+          }
+          .pikachu.Flex111 {
+          display: flex;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          padding-left: 30px;
+          padding-right: 30px;
+          border-radius: 35px;
+          background-color: #FF7629;
+          }
+          .pikachu.Flex113 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .pikachu.Flex114 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex115 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex116 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex117 {
+          display: flex;
+          padding-top: 100px;
+          padding-left: 150px;
+          padding-right: 150px;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          padding-bottom: 50px;
+          justify-content: space-between;
+          }
+          .pikachu.Flex118 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+          row-gap: 13px;
+          width: 40%;
+          }
+          .pikachu.Flex121 {
+          display: flex;
+          -moz-column-gap: 10px;
+               column-gap: 10px;
+          }
+          .pikachu.Flex119 {
+          display: flex;
+          }
+          .pikachu.Flex125 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          padding-left: 5px;
+          padding-right: 5px;
+          }
+          .pikachu.Flex127 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          
+          padding-right: 5px;
+          }
+          .pikachu.Flex120 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          row-gap: 20px;
+          }
+          .pikachu.Flex124 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .pikachu.Flex122 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Flex123 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .pikachu.Image2 {
+          cursor: pointer;
+          }
+          .pikachu.TextBox1 {
+          cursor: pointer;
+          }
+          .pikachu.TextBox2 {
+          cursor: pointer;
+          }
+          .pikachu.TextBox3 {
+          cursor: pointer;
+          }
+          .pikachu.TextBox4 {
+          cursor: pointer;
+          }
+          .pikachu.TextBox6 {
+          cursor: pointer;
+          }
+          .pikachu.Button1 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button2 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+         
+          .pikachu.TextBox9 {
+          font-size: 18px;
+          color: #757575;
+          
+          width: 70%;
+          }
+          .pikachu.Button3 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button4 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.TextBox7 {
+          font-family: DM Sans;
+          font-weight: 700;
+          }
+          .pikachu.TextBox8 {
+          
+          color: #FF7629;
+          font-family: DM Sans;
+          font-weight: 700;
+          }
+          .pikachu.Image5 {
+         
+          width: 400px;
+          border-radius: 50px;
+          padding-left: 40px;
+          padding-right: 40px;
+          padding-top: 40px;
+          padding-bottom: 40px;
+          position: relative;
+          right: 200px;
+          }
+          
+          .pikachu.Image6 {
+          width: 200px;
+          }
+          .pikachu.Image10 {
+          width: 200px;
+          }
+          
+          .pikachu.TextBox11 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 25px;
+          }
+          
+          .pikachu.TextBox12 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          color: #FF7629;
+          }
+          .pikachu.TextBox13 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .pikachu.TextBox14 {
+          width: 200px;
+          padding-left: 30px;
+          padding-right: 10px;
+          color: #676767;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          }
+          
+          .pikachu.TextBox382 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          color: #FF7629;
+          }
+          .pikachu.TextBox383 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .pikachu.TextBox384 {
+          width: 200px;
+          padding-left: 30px;
+          padding-right: 10px;
+          color: #676767;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          }
+          .pikachu.TextBox30 {
+          width: 200px;
+          padding-left: 30px;
+          padding-right: 10px;
+          color: #676767;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          }
+          .pikachu.TextBox31 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .pikachu.TextBox32 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          color: #FF7629;
+          }
+          
+          .pikachu.TextBox385 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          color: #FF7629;
+          }
+          .pikachu.TextBox386 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .pikachu.TextBox387 {
+          width: 200px;
+          padding-left: 30px;
+          padding-right: 10px;
+          color: #676767;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 17px;
+          }
+          .pikachu.Button9 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button10 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Image19 {
+          width: 460px;
+          border-radius: 30px;
+          }
+          .pikachu.TextBox36 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          }
+          
+          .pikachu.TextBox38 {
+          width: 50%;
+          color: #8d8d8d;
+          }
+          .pikachu.TextBox40 {
+          color: #8d8d8d;
+          }
+          
+          .pikachu.TextBox43 {
+          color: #8d8d8d;
+          }
+          
+          .pikachu.TextBox44 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          
+          }
+          .pikachu.TextBox45 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #8d8d8d;
+          width: 80%;
+          }
+          .pikachu.TextBox46 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #8d8d8d;
+          width: 80%;
+          }
+          .pikachu.Button11 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button12 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.TextBox47 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          .pikachu.TextBox48 {
+          width: 50%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #727272;
+          }
+          .pikachu.Product_Image_1 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Name_1 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_About_1 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Price_1 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_About_2 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Name_2 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_Image_2 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Price_2 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_About_3 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Name_3 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_Image_3 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Price_3 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_About_4 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Name_4 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_Image_4 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Price_4 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_Image_6 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Name_6 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_About_6 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Price_6 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_About_5 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Name_5 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_Image_5 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Price_5 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_Image_8 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Name_8 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_About_8 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Price_8 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Product_Image_7 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .pikachu.Product_Name_7 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .pikachu.Product_About_7 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .pikachu.Product_Price_7 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .pikachu.Button13 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button14 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.TextBox73 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 38px;
+          color: #ffffff;
+          max-width: 80%;
+          }
+          .pikachu.TextBox74 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          color: #fffafa;
+          max-width: 80%;
+          }
+          .pikachu.Button15 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #ffffff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button16 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Image34 {
+          width: 100%;
+          }
+          .pikachu.TextBox75 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          .pikachu.TextBox76 {
+          width: 50%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #727272;
+          }
+          
+          .pikachu.Carousel2 {
+          width: 100%;
+          height: 100%;
+          }
+          
+          .pikachu.Button17 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.Button18 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .pikachu.TextBox78 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 24px;
+          }
+          .pikachu.TextBox79 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #716f6f;
+          }
+          .pikachu.Image44 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image76 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image77 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image78 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image79 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image40 {
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+          }
+          .pikachu.TextBox80 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #595858;
+          }
+          .pikachu.TextBox81 {
+          font-family: DM Sans;
+          font-weight: 500;
+          }
+          .pikachu.Image74 {
+          width: 50px;
+          height: 50px;
+          background-color: #FF7629;
+          padding-left: 5px;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          
+          padding-right: 5px;
+          border-radius: 50px;
+          }
+          .pikachu.Image75 {
+          width: 50px;
+          height: 50px;
+          background-color: #FF7629;
+          padding-top: 5px;
+          padding-bottom: 5px;
+          padding-right: 5px;
+          padding-left: 5px;
+          border-radius: 50px;
+          color: #ffffff;
+          }
+         
+          .pikachu.TextBox82 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          
+          .pikachu.Image45 {
+          width: 100%;
+          border-top-left-radius: 35px;
+          border-top-right-radius: 35px;
+          height: 70%;
+          }
+          .pikachu.TextBox84 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #8f8f8f;
+          padding-left: 20px;
+          padding-bottom: 30px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox85 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #737373;
+          padding-left: 20px;
+          padding-top: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox86 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 26px;
+          padding-left: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox96 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          padding-left: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox97 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #737373;
+          padding-left: 20px;
+          padding-top: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.Image49 {
+          width: 100%;
+          border-top-left-radius: 35px;
+          border-top-right-radius: 35px;
+          }
+          .pikachu.Image51 {
+          width: 100%;
+          border-top-left-radius: 35px;
+          border-top-right-radius: 35px;
+          }
+          .pikachu.TextBox99 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #737373;
+          padding-left: 20px;
+          padding-top: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox100 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          padding-left: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox101 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          padding-left: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox102 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #737373;
+          padding-left: 20px;
+          padding-top: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.Image52 {
+          width: 100%;
+          border-top-left-radius: 35px;
+          border-top-right-radius: 35px;
+          }
+          .pikachu.Image53 {
+          width: 100%;
+          border-top-left-radius: 35px;
+          border-top-right-radius: 35px;
+          }
+          .pikachu.TextBox103 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #737373;
+          padding-left: 20px;
+          padding-top: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox104 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          padding-left: 20px;
+          padding-right: 10px;
+          }
+          .pikachu.TextBox105 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 34px;
+          align-self: auto;
+          }
+          .pikachu.TextBox106 {
+          width: 50%;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          color: #727171;
+          }
+          .pikachu.Image54 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.TextBox107 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #717070;
+          }
+          .pikachu.Image55 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.TextBox111 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #717070;
+          }
+          .pikachu.Image56 {
+          width: 30px;
+          }
+          .pikachu.TextBox112 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #717070;
+          }
+          .pikachu.Button21 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          width: 40%;
+          }
+          
+          .pikachu.Input1 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          .pikachu.Input2 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          
+          .pikachu.Input3 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          .pikachu.Input4 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          
+          .pikachu.Input5 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          .pikachu.Input6 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          }
+          
+          .pikachu.Input9 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 11px;
+          padding-left: 15px;
+          padding-bottom: 11px;
+          padding-right: 15px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 20px;
+          height: 180px;
+          align-self: auto;
+          text-align: center;
+          }
+          .pikachu.TextBox145 {
+          font-family: DM Sans;
+          font-weight: 400;
+          font-size: 15px;
+          color: #23d12f;
+          }
+          .pikachu.TextBox122 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          .pikachu.TextBox121 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #ffffff;
+          }
+          .pikachu.Image58 {
+          width: 300px;
+          height: 300px;
+          border-radius: 35px;
+          }
+          .pikachu.Image59 {
+          width: 300px;
+          height: 300px;
+          border-radius: 35px;
+          }
+          .pikachu.Image60 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image61 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image62 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image63 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          
+          .pikachu.TextBox123 {
+          width: 100%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #6a6868;
+          }
+          .pikachu.Image65 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image66 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image67 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image68 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.Image69 {
+          width: 30px;
+          height: 30px;
+          }
+          .pikachu.TextBox125 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .pikachu.TextBox126 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox127 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox128 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox129 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox130 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox131 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox133 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox134 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox135 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox136 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox137 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox138 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox139 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox140 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .pikachu.TextBox141 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .pikachu.TextBox124 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          }
+          .pikachu.Image70 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image71 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image72 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .pikachu.Image73 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          @media screen and (max-width: 991px) {
+              .pikachu.Flex138.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          
+              }
+              
+              .pikachu.Menu1.pt {
+          display: flex;
+              }
+              .pikachu.Flex139.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          flex-direction: column;
+          background-color: #ffffff;
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          row-gap: 7px;
+          z-index: 5;
+              }
+              .pikachu.Flex5.pt {
+          flex-direction: column;
+              }
+              
+              .pikachu.Flex14.pt {
+          flex-direction: column;
+          row-gap: 20px;
+              }
+              .pikachu.Flex40.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex57.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex59.pt {
+          flex-direction: column;
+              }
+              
+              .pikachu.Flex1.pt {
+          padding-left: 150px;
+          padding-right: 50px;
+          box-sizing: border-box;
+          width: 100%;
+          justify-content: space-between;
+              }
+              .pikachu.Flex74.pt {
+          flex-direction: column;
+          row-gap: 40px;
+          align-items: center;
+              }
+              .pikachu.Flex113.pt {
+          flex-direction: column;
+          row-gap: 40px;
+              }
+              
+              .pikachu.Flex26.pt {
+          flex-direction: column;
+          justify-content: flex-start;
+          align-items: center;
+          padding-bottom: 150px;
+          box-sizing: border-box;
+          width: 100%;
+          
+              }
+              .pikachu.Flex27.pt {
+          
+          box-sizing: content-box;
+          justify-content: center;
+          align-items: flex-end;
+          position: static;
+              }
+              .pikachu.Flex29.pt {
+          
+          position: relative;
+              }
+              
+              .pikachu.Flex90.pt {
+          flex-direction: column;
+          align-items: center;
+              }
+              
+              .pikachu.Flex92.pt {
+          width: 100%;
+          justify-content: center;
+              }
+              .pikachu.Flex98.pt {
+          position: static;
+              }
+              .pikachu.Flex117.pt {
+          flex-direction: column;
+          row-gap: 40px;
+          align-items: center;
+              }
+          }
+          @media screen and (max-width: 767px) {
+              .pikachu.Flex113.pt {
+          align-items: center;
+              }
+              .pikachu.Flex125.pt {
+          align-items: flex-start;
+              }
+              .pikachu.Image56.pt {
+          height: 30px;
+              }
+              
+              .pikachu.Flex12.pt {
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          flex-direction: column;
+          row-gap: 20px;
+          align-items: center;
+              }
+              .pikachu.Flex26.pt {
+          padding-bottom: 250px;
+          padding-left: 0px;
+              }
+              .pikachu.Flex27.pt {
+          
+          justify-content: center;
+          flex-direction: column;
+          
+              }
+              .pikachu.Flex29.pt {
+          right: 0;
+          top: 0;
+          bottom: 150px;
+          position: relative;
+          left: 0;
+              }
+              .pikachu.Flex75.pt {
+          width: 70%;
+              }
+              .pikachu.Flex76.pt {
+          width: 100%;
+              }
+              .pikachu.Flex81.pt {
+          width: 80%;
+              }
+              .pikachu.Flex82.pt {
+          width: 80%;
+              }
+              .pikachu.Flex83.pt {
+          width: 80%;
+              }
+              .pikachu.Flex84.pt {
+          width: 80%;
+              }
+              .pikachu.Flex90.pt {
+          justify-content: center;
+              }
+              .pikachu.Flex91.pt {
+          padding-left: 0px;
+          align-items: center;
+          width: 90%;
+              }
+              .pikachu.Flex93.pt {
+          width: 70%;
+              }
+              .pikachu.Flex94.pt {
+          width: 70%;
+              }
+              .pikachu.Flex95.pt {
+          width: 70%;
+              }
+              .pikachu.Flex92.pt {
+          width: 100%;
+          justify-content: center;
+              }
+              
+              .pikachu.Flex110.pt {
+          padding-left: 50px;
+          padding-right: 50px;
+              }
+              
+              .pikachu.Flex118.pt {
+          align-items: flex-start;
+              }
+              .pikachu.TextBox106.pt {
+          width: 70%;
+              }
+          }
+          @media screen and (max-width: 478px) {
+              .pikachu.Flex1.pt {
+          padding-left: 50px;
+          box-sizing: border-box;
+          justify-content: space-between;
+              }
+              .pikachu.Flex6.pt {
+          padding-left: 50px;
+              }
+              
+              .pikachu.Flex12.pt {
+          flex-direction: column;
+          row-gap: 34px;
+          padding-top: 30px;
+              }
+              .pikachu.Flex371.pt {
+          flex-direction: column;
+          row-gap: 34px;
+              }
+              .pikachu.Flex373.pt {
+          flex-direction: column;
+          row-gap: 34px;
+              }
+              .pikachu.Flex365.pt {
+          flex-direction: column;
+          row-gap: 25px;
+              }
+              .pikachu.Flex367.pt {
+          flex-direction: column;
+          row-gap: 25px;
+              }
+              .pikachu.Flex26.pt {
+          justify-content: center;
+              }
+              .pikachu.Flex27.pt {
+          
+          justify-content: flex-start;
+          align-items: center;
+          align-content: stretch;
+          flex-direction: column;
+          
+              }
+              .pikachu.Flex29.pt {
+          right: 0;
+          position: relative;
+          top: 0;
+          bottom: 200px;
+          left: 0;
+              }
+              .pikachu.Flex28.pt {
+          width: 70%;
+              }
+              .pikachu.Flex297.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex298.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex299.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex300.pt {
+          flex-direction: column;
+              }
+              .pikachu.Flex60.pt {
+          padding-left: 50px;
+              }
+              .pikachu.Flex89.pt {
+          -moz-column-gap: 10px;
+               column-gap: 10px;
+              }
+              .pikachu.Flex64.pt {
+          align-items: center;
+          padding-left: 30px;
+          padding-right: 30px;
+              }
+              .pikachu.Flex71.pt {
+          padding-left: 0px;
+          padding-right: 0px;
+          align-items: center;
+              }
+              .pikachu.Flex72.pt {
+          
+          justify-content: space-around;
+              }
+              .pikachu.Flex74.pt {
+          width: 80%;
+              }
+              .pikachu.Flex75.pt {
+          width: 100%;
+              }
+              .pikachu.Flex76.pt {
+          width: 80%;
+              }
+              .pikachu.Flex77.pt {
+          flex-direction: column;
+          row-gap: 40px;
+              }
+              .pikachu.Flex81.pt {
+          width: 100%;
+              }
+              .pikachu.Flex82.pt {
+          width: 100%;
+              }
+              .pikachu.Flex85.pt {
+          flex-direction: column;
+          row-gap: 40px;
+              }
+              .pikachu.Flex83.pt {
+          width: 100%;
+              }
+              .pikachu.Flex84.pt {
+          width: 100%;
+              }
+              
+              .pikachu.Flex91.pt {
+          padding-left: 0px;
+          width: 70%;
+          align-items: flex-start;
+              }
+              .pikachu.Flex93.pt {
+          -moz-column-gap: 21px;
+               column-gap: 21px;
+          
+              }
+              
+              
+              .pikachu.Flex92.pt {
+          width: 100%;
+          
+          align-items: stretch;
+          justify-content: center;
+              }
+              .pikachu.Flex98.pt {
+          
+          padding-left: 30px;
+          padding-right: 30px;
+              }
+              .pikachu.Flex110.pt {
+          padding-left: 50px;
+          padding-right: 50px;
+              }
+              .pikachu.Flex111.pt {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          width: 30%;
+          justify-content: center;
+              }
+              .pikachu.Flex117.pt {
+          padding-left: 0px;
+          padding-right: 0px;
+              }
+              .pikachu.Flex118.pt {
+          width: 70%;
+          align-items: center;
+              }
+              .pikachu.Image19.pt {
+          width: 90%;
+              }
+              
+              .pikachu.TextBox76.pt {
+          width: 70%;
+              }
+              .pikachu.TextBox82.pt {
+          font-size: 24px;
+              }
+              
+              .pikachu.TextBox122.pt {
+          font-size: 25px;
+              }
+              .pikachu.TextBox121.pt {
+          font-size: 16px;
+              }
+              .pikachu.TextBox123.pt {
+          width: 60%;
+              }
+          }
+          .p-about.Flex145 {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #696969;
+          padding-top: 20px;
+          padding-bottom: 30px;
+          }
+          
+          .p-about.Flex140 {
+          display: flex;
+          }
+          .p-about.Flex143 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-about.Flex144 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          align-items: center;
+          }
+          .p-about.Flex141 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-about.Flex142 {
+          display: flex;
+          }
+          .p-about.Flex146 {
+          display: flex;
+          
+          justify-content: space-around;
+          width: 100%;
+          box-sizing: border-box;
+          }
+          .p-about.Flex147 {
+          display: flex;
+          flex-direction: column;
+          
+          row-gap: 20px;
+          width: 70%;
+          align-items: center;
+          justify-content: center;
+          }
+          .p-about.Flex148 {
+          display: flex;
+          width: 30%;
+          align-items: center;
+          justify-content: center;
+          }
+          .p-about.Flex149 {
+          display: flex;
+          
+          box-sizing: border-box;
+          }
+          .p-about.Flex150 {
+          display: flex;
+          background-color: #FF7629;
+          padding-right: 100px;
+          padding-bottom: 100px;
+          width: 70%;
+          justify-content: center;
+          }
+          .p-about.Flex152 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          bottom: 50px;
+          }
+          .p-about.Flex153 {
+          display: flex;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          padding-top: 50px;
+          padding-bottom: 50px;
+          padding-right: 50px;
+          padding-left: 50px;
+          border-radius: 20px;
+          position: static;
+          bottom: 50px;
+          background-color: #ffffff;
+          border-style: solid;
+          border-color: #bcbcbc;
+          z-index: 5;
+          }
+          .p-about.Flex154 {
+          display: flex;
+          background-color: #FFF9F3;
+          position: relative;
+          bottom: 134px;
+          
+          padding-top: 170px;
+          
+          flex-direction: column;
+          row-gap: 25px;
+          padding-bottom: 150px;
+          }
+          .p-about.Flex157 {
+          display: flex;
+          -moz-column-gap: 50px;
+               column-gap: 50px;
+          }
+          .p-about.Flex155 {
+          display: flex;
+          width: 50%;
+          align-items: center;
+          justify-content: flex-end;
+          }
+          .p-about.Flex156 {
+          display: flex;
+          width: 50%;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: center;
+          row-gap: 20px;
+          }
+          .p-about.Flex160 {
+          display: flex;
+          -moz-column-gap: 50px;
+               column-gap: 50px;
+          }
+          .p-about.Flex161 {
+          display: flex;
+          width: 50%;
+          flex-direction: column;
+          align-items: flex-end;
+          justify-content: center;
+          row-gap: 20px;
+          }
+          .p-about.Flex164 {
+          display: inline-flex;
+          flex-direction: column;
+          row-gap: 25px;
+          align-items: flex-start;
+          justify-content: center;
+          align-content: flex-end;
+          flex-wrap: wrap;
+          }
+          .p-about.Flex162 {
+          display: flex;
+          width: 50%;
+          align-items: center;
+          justify-content: flex-start;
+          }
+          .p-about.Flex165 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+          row-gap: 20px;
+          padding-bottom: 100px;
+          }
+          .p-about.Flex166 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .p-about.Flex167 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 300px;
+          row-gap: 15px;
+          }
+          .p-about.Flex168 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 300px;
+          row-gap: 15px;
+          }
+          .p-about.Flex169 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          width: 300px;
+          row-gap: 15px;
+          }
+          .p-about.Flex170 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-direction: column;
+          row-gap: 30px;
+          padding-bottom: 150px;
+          }
+          .p-about.Flex171 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 50px;
+          }
+          .p-about.Flex172 {
+          display: flex;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          }
+          .p-about.Flex173 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex174 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex175 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex180 {
+          display: flex;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          }
+          .p-about.Flex177 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex178 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex179 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          width: 250px;
+          row-gap: 14px;
+          }
+          .p-about.Flex187 {
+          display: flex;
+          background-color: #FFF9F3;
+          padding-left: 100px;
+          padding-right: 100px;
+          align-items: center;
+          padding-top: 150px;
+          flex-direction: column;
+          padding-bottom: 150px;
+          }
+          .p-about.Flex185 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-about.Flex183 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .p-about.Flex181 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-about.Flex182 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-about.Flex186 {
+          display: flex;
+          width: 100%;
+          align-items: center;
+          justify-content: space-between;
+          
+          padding-bottom: 30px;
+          
+          }
+          .p-about.Flex184 {
+          display: flex;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          padding-left: 30px;
+          padding-right: 30px;
+          border-radius: 35px;
+          background-color: #FF7629;
+          }
+          .p-about.Flex197 {
+          display: flex;
+          padding-top: 100px;
+          padding-left: 150px;
+          padding-right: 150px;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          padding-bottom: 50px;
+          justify-content: space-between;
+          }
+          .p-about.Flex194 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          row-gap: 20px;
+          }
+          .p-about.Flex190 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .p-about.Flex188 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-about.Flex189 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-about.Flex195 {
+          display: flex;
+          }
+          .p-about.Flex191 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          
+          padding-right: 5px;
+          }
+          .p-about.Flex192 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          padding-left: 5px;
+          padding-right: 5px;
+          }
+          .p-about.Flex196 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+          row-gap: 13px;
+          width: 40%;
+          }
+          .p-about.Flex193 {
+          display: flex;
+          -moz-column-gap: 10px;
+               column-gap: 10px;
+          }
+          
+          .p-about.Button22 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-about.Button23 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-about.TextBox156 {
+          cursor: pointer;
+          }
+          .p-about.TextBox157 {
+          cursor: pointer;
+          }
+          .p-about.TextBox158 {
+          cursor: pointer;
+          }
+          .p-about.TextBox159 {
+          cursor: pointer;
+          }
+          .p-about.TextBox160 {
+          cursor: pointer;
+          }
+          .p-about.Image80 {
+          cursor: pointer;
+          }
+          .p-about.TextBox161 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 46px;
+          width: 55%;
+          }
+          .p-about.TextBox162 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          color: #4c4c4c;
+          width: 55%;
+          }
+          .p-about.Image81 {
+          width: 400px;
+          border-radius: 50px;
+          position: relative;
+          top: 100px;
+          right: 100px;
+          }
+          .p-about.Flex151 {
+          display: flex;
+          width: 30%;
+          position: static;
+          }
+          .p-about.Image82 {
+          width: 600px;
+          border-radius: 60px;
+          position: relative;
+          bottom: 70px;
+          }
+          .p-about.TextBox163 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          }
+          
+          .p-about.Image88 {
+          width: 530px;
+          border-radius: 40px;
+          }
+          .p-about.TextBox164 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 36px;
+          }
+          .p-about.TextBox165 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #585656;
+          width: 80%;
+          }
+          .p-about.TextBox166 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #585656;
+          width: 80%;
+          }
+          .p-about.Button24 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 15px;
+          padding-left: 25px;
+          padding-bottom: 15px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-about.TextBox170 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 36px;
+          align-self: auto;
+          }
+          .p-about.TextBox171 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #585656;
+          width: 90%;
+          }
+          .p-about.TextBox172 {
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #585656;
+          width: 90%;
+          }
+          .p-about.Button26 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 15px;
+          padding-left: 25px;
+          padding-bottom: 15px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          align-self: auto;
+          }
+          .p-about.Image90 {
+          width: 530px;
+          border-radius: 40px;
+          }
+          .p-about.TextBox173 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 32px;
+          }
+          .p-about.TextBox175 {
+          width: 40%;
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #696868;
+          }
+          .p-about.Image91 {
+          width: 300px;
+          border-radius: 40px;
+          }
+          .p-about.TextBox176 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #6e6c6c;
+          }
+          .p-about.TextBox177 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          }
+          .p-about.TextBox178 {
+          
+          color: #FF7629;
+          font-family: DM Sans;
+          font-weight: italic;
+          font-size: 16px;
+          }
+          .p-about.TextBox179 {
+          
+          color: #FF7629;
+          font-family: DM Sans;
+          font-weight: italic;
+          font-size: 16px;
+          }
+          .p-about.TextBox180 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          }
+          .p-about.TextBox181 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #6e6c6c;
+          }
+          .p-about.Image92 {
+          width: 300px;
+          border-radius: 40px;
+          }
+          .p-about.TextBox182 {
+          
+          color: #FF7629;
+          font-family: DM Sans;
+          font-weight: italic;
+          font-size: 16px;
+          }
+          .p-about.TextBox183 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          }
+          .p-about.TextBox184 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 15px;
+          color: #6e6c6c;
+          }
+          .p-about.Image93 {
+          width: 300px;
+          border-radius: 40px;
+          }
+          .p-about.TextBox185 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          width: 40%;
+          text-align: center;
+          }
+          .p-about.Image94 {
+          width: 120px;
+          }
+          .p-about.TextBox186 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.TextBox187 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.TextBox188 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.TextBox189 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.Image95 {
+          width: 120px;
+          }
+          .p-about.TextBox190 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.TextBox191 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.Image96 {
+          width: 120px;
+          }
+          .p-about.Image98 {
+          width: 120px;
+          }
+          .p-about.TextBox194 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.TextBox195 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.Image99 {
+          width: 120px;
+          }
+          .p-about.TextBox196 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.TextBox197 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.TextBox198 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-about.TextBox199 {
+          text-align: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 14px;
+          color: #545353;
+          }
+          .p-about.Image100 {
+          width: 120px;
+          }
+          .p-about.Image105 {
+          width: 300px;
+          height: 300px;
+          border-radius: 35px;
+          }
+          .p-about.Image106 {
+          width: 300px;
+          height: 300px;
+          border-radius: 35px;
+          }
+          .p-about.Image101 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image102 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image103 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image104 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.TextBox201 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          .p-about.TextBox200 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #ffffff;
+          }
+          .p-about.TextBox218 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          }
+          .p-about.Image107 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image108 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image109 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.Image110 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-about.TextBox202 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-about.TextBox203 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox204 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox205 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox206 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox207 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox208 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox209 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox210 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox211 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox212 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox213 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox214 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox215 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox216 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-about.TextBox217 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-about.TextBox219 {
+          width: 100%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #6a6868;
+          }
+          
+          .p-about.Image111 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-about.Image112 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-about.Image113 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-about.Image114 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-about.Image115 {
+          width: 30px;
+          height: 30px;
+          }
+          @media screen and (max-width: 991px) {
+              .p-about.Menu2.pt {
+          display: flex;
+              }
+              .p-about.Flex140.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          flex-direction: column;
+          background-color: #ffffff;
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          row-gap: 7px;
+          z-index: 5;
+              }
+              
+              .p-about.Flex141.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          
+              }
+              .p-about.Flex145.pt {
+          padding-left: 150px;
+          padding-right: 50px;
+          box-sizing: border-box;
+          width: 100%;
+          justify-content: space-between;
+              }
+          }
+          @media screen and (max-width: 478px) {
+              .p-about.Flex145.pt {
+          padding-left: 50px;
+              }
+          }
+          .p-menu.Flex203 {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #696969;
+          padding-top: 20px;
+          padding-bottom: 30px;
+          }
+          
+          .p-menu.Flex198 {
+          display: flex;
+          }
+          .p-menu.Flex201 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-menu.Flex202 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          align-items: center;
+          }
+          .p-menu.Flex199 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-menu.Flex200 {
+          display: flex;
+          }
+          .p-menu.Flex204 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          padding-top: 100px;
+          }
+          .p-menu.Flex205 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          padding-top: 25px;
+          }
+          .p-menu.Flex348 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 30px;
+          }
+          .p-menu.Flex346 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .p-menu.Flex341 {
+          display: flex;
+           
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Product_Card_7 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex325 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Product_Card_8 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex326 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Flex342 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Product_Card_5 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex327 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Product_Card_6 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex328 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Flex347 {
+          display: flex;
+          row-gap: px;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          }
+          .p-menu.Flex343 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Product_Card_4 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex329 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Product_Card_3 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex330 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Flex344 {
+          display: flex;
+          
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Product_Card_2 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex331 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Product_Card_1 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 10px;
+          }
+          .p-menu.Flex332 {
+          display: flex;
+          padding-left: 10px;
+          padding-right: 10px;
+          background-color: #fffbfb;
+          position: relative;
+          border-radius: 15px;
+          padding-top: 10px;
+          padding-bottom: 10px;
+          left: 60px;
+          top: 60px;
+          }
+          .p-menu.Flex227 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 15px;
+          }
+          .p-menu.Flex228 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          padding-top: 30px;
+          }
+          .p-menu.Flex229 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          justify-content: space-between;
+          }
+          .p-menu.Flex230 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          box-sizing: content-box;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex231 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex232 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-color: #d1d1d1;
+          border-style: solid;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex233 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex249 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          justify-content: space-between;
+          }
+          .p-menu.Flex245 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex246 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-color: #d1d1d1;
+          border-style: solid;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex247 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex248 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          box-sizing: content-box;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-menu.Flex259 {
+          display: flex;
+          padding-top: 200px;
+          padding-left: 150px;
+          padding-right: 150px;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          padding-bottom: 50px;
+          justify-content: space-between;
+          }
+          .p-menu.Flex256 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          row-gap: 20px;
+          }
+          .p-menu.Flex252 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .p-menu.Flex250 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Flex251 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-menu.Flex257 {
+          display: flex;
+          }
+          .p-menu.Flex253 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          
+          padding-right: 5px;
+          }
+          .p-menu.Flex254 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          padding-left: 5px;
+          padding-right: 5px;
+          }
+          .p-menu.Flex258 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+          row-gap: 13px;
+          width: 40%;
+          }
+          .p-menu.Flex255 {
+          display: flex;
+          -moz-column-gap: 10px;
+               column-gap: 10px;
+          }
+          
+          .p-menu.Button27 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.Button28 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.TextBox225 {
+          cursor: pointer;
+          }
+          .p-menu.TextBox226 {
+          cursor: pointer;
+          }
+          .p-menu.TextBox227 {
+          cursor: pointer;
+          }
+          .p-menu.TextBox228 {
+          cursor: pointer;
+          }
+          .p-menu.TextBox229 {
+          cursor: pointer;
+          }
+          .p-menu.Image117 {
+          cursor: pointer;
+          }
+          .p-menu.TextBox230 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 42px;
+          }
+          .p-menu.TextBox231 {
+          width: 50%;
+          text-align: center;
+          }
+          .p-menu.Button29 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 8px;
+          padding-left: 15px;
+          padding-bottom: 8px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 15px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          }
+          .p-menu.Button31 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 8px;
+          padding-left: 15px;
+          padding-bottom: 8px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 25px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d7d7d7;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.Button32 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 8px;
+          padding-left: 15px;
+          padding-bottom: 8px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 25px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d7d7d7;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.Button33 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 8px;
+          padding-left: 15px;
+          padding-bottom: 8px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 25px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d7d7d7;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.Button34 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 8px;
+          padding-left: 15px;
+          padding-bottom: 8px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 25px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d7d7d7;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-menu.Product_About_7 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Name_7 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_Image_7 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Price_7 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_About_8 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Name_8 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_Image_8 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Price_8 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_Image_5 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Name_5 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_About_5 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Price_5 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_About_6 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Name_6 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_Image_6 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Price_6 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_Image_4 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Name_4 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_About_4 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Price_4 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_Image_3 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Name_3 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_About_3 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Price_3 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_Image_2 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Name_2 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_About_2 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Price_2 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.Product_About_1 {
+          width: 250px;
+          height: 50px;
+          max-height: 100px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #686868;
+          font-size: 16px;
+          text-align: center;
+          }
+          .p-menu.Product_Name_1 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 24px;
+          }
+          .p-menu.Product_Image_1 {
+          width: 250px;
+          height: 250px;
+          border-radius: 30px;
+          }
+          .p-menu.Product_Price_1 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 16px;
+          }
+          .p-menu.TextBox256 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 42px;
+          }
+          .p-menu.TextBox257 {
+          width: 50%;
+          text-align: center;
+          }
+          .p-menu.Image126 {
+          width: 130px;
+          }
+          .p-menu.Image127 {
+          width: 130px;
+          }
+          .p-menu.Image128 {
+          width: 130px;
+          }
+          .p-menu.Image129 {
+          width: 70px;
+          }
+          .p-menu.Image139 {
+          width: 80px;
+          box-sizing: content-box;
+          }
+          .p-menu.Image140 {
+          width: 100px;
+          }
+          .p-menu.Image141 {
+          width: 130px;
+          }
+          .p-menu.Image142 {
+          width: 130px;
+          }
+          .p-menu.TextBox274 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          }
+          .p-menu.Image143 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-menu.Image144 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-menu.Image145 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-menu.Image146 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-menu.TextBox258 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-menu.TextBox259 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox260 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox261 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox262 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox263 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox264 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox265 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox266 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox267 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox268 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox269 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox270 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox271 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox272 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-menu.TextBox273 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-menu.TextBox275 {
+          width: 100%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #6a6868;
+          }
+          
+          .p-menu.Image147 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-menu.Image148 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-menu.Image149 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-menu.Image150 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-menu.Image151 {
+          width: 30px;
+          height: 30px;
+          }
+          @media screen and (max-width: 991px) {
+              .p-menu.Menu3.pt {
+          display: flex;
+              }
+              .p-menu.Flex198.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          flex-direction: column;
+          background-color: #ffffff;
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          row-gap: 7px;
+          z-index: 5;
+              }
+              
+              .p-menu.Flex199.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          
+              }
+              .p-menu.Flex346.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex347.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex203.pt {
+          padding-left: 150px;
+          padding-right: 50px;
+          box-sizing: border-box;
+          width: 100%;
+          justify-content: space-between;
+              }
+              .p-menu.Flex259.pt {
+          flex-direction: column;
+          row-gap: 40px;
+          align-items: center;
+              }
+          }
+          @media screen and (max-width: 767px) {
+              .p-menu.Flex229.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-menu.Flex249.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-menu.Flex259.pt {
+          padding-left: 0px;
+          padding-right: 0px;
+              }
+              .p-menu.Flex258.pt {
+          width: 50%;
+              }
+          }
+          @media screen and (max-width: 478px) {
+              .p-menu.Flex203.pt {
+          padding-left: 50px;
+              }
+              .p-menu.Flex205.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-menu.Flex341.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex342.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex343.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex344.pt {
+          flex-direction: column;
+              }
+              .p-menu.Flex229.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-menu.Flex249.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-menu.Flex259.pt {
+          padding-left: 0px;
+          padding-right: 0px;
+              }
+              .p-menu.Flex258.pt {
+          width: 70%;
+              }
+          }
+          .p-product.Flex265 {
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 18px;
+          color: #696969;
+          padding-top: 20px;
+          padding-bottom: 30px;
+          }
+          .p-product.Menu4 {
+          
+          }
+          .p-product.Flex260 {
+          display: flex;
+          }
+          .p-product.Flex263 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-product.Flex264 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          align-items: center;
+          }
+          .p-product.Flex261 {
+          display: flex;
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          }
+          .p-product.Flex262 {
+          display: flex;
+          }
+          .p-product.Flex266 {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          flex-wrap: nowrap;
+          padding-left: 150px;
+          padding-right: 150px;
+          -moz-column-gap: 50px;
+               column-gap: 50px;
+          box-sizing: border-box;
+          padding-top: 150px;
+          padding-bottom: 100px;
+          }
+          .p-product.Flex267 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 15px;
+          align-items: stretch;
+          flex-wrap: nowrap;
+          justify-content: flex-start;
+          width: 100%;
+          }
+          .p-product.Flex269 {
+          display: flex;
+          background-color: #FEF9F3;
+          justify-content: center;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          align-items: flex-start;
+          padding-top: 150px;
+          padding-bottom: 150px;
+          }
+          .p-product.Flex270 {
+          display: flex;
+          background-color: #ffffff;
+          border-radius: 20px;
+          flex-direction: column;
+          padding-left: 40px;
+          padding-right: 40px;
+          padding-top: 60px;
+          padding-bottom: 50px;
+          row-gap: 14px;
+          align-items: flex-start;
+          border-style: solid;
+          border-color: #d6d3d3;
+          position: static;
+          }
+          .p-product.Flex272 {
+          display: flex;
+          align-items: center;
+          -moz-column-gap: 15px;
+               column-gap: 15px;
+          }
+          .p-product.Flex271 {
+          display: flex;
+          background-color: #ffffff;
+          border-radius: 20px;
+          flex-direction: column;
+          padding-left: 50px;
+          padding-right: 50px;
+          padding-top: 100px;
+          border-style: solid;
+          border-color: #d6d3d3;
+          row-gap: 15px;
+          padding-bottom: 100px;
+          }
+          .p-product.Flex286 {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          row-gap: 15px;
+          padding-top: 150px;
+          }
+          .p-product.Flex285 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          padding-top: 30px;
+          }
+          .p-product.Flex283 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          justify-content: space-between;
+          }
+          .p-product.Flex275 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          box-sizing: content-box;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex276 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex277 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-color: #d1d1d1;
+          border-style: solid;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex278 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex284 {
+          display: flex;
+          -moz-column-gap: 25px;
+               column-gap: 25px;
+          justify-content: space-between;
+          }
+          .p-product.Flex279 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex280 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-color: #d1d1d1;
+          border-style: solid;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex281 {
+          display: flex;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          padding-left: 20px;
+          padding-right: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex282 {
+          display: flex;
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 20px;
+          padding-bottom: 20px;
+          border-radius: 10px;
+          border-style: solid;
+          border-color: #d1d1d1;
+          box-sizing: content-box;
+          width: 150px;
+          justify-content: center;
+          }
+          .p-product.Flex296 {
+          display: flex;
+          padding-top: 200px;
+          padding-left: 150px;
+          padding-right: 150px;
+          -moz-column-gap: 40px;
+               column-gap: 40px;
+          padding-bottom: 50px;
+          justify-content: space-between;
+          }
+          .p-product.Flex293 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: flex-start;
+          row-gap: 13px;
+          width: 40%;
+          }
+          .p-product.Flex289 {
+          display: flex;
+          -moz-column-gap: 10px;
+               column-gap: 10px;
+          }
+          .p-product.Flex294 {
+          display: flex;
+          }
+          .p-product.Flex290 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          padding-left: 5px;
+          padding-right: 5px;
+          }
+          .p-product.Flex291 {
+          display: flex;
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          align-items: flex-start;
+          flex-direction: column;
+          row-gap: 10px;
+          
+          padding-right: 5px;
+          }
+          .p-product.Flex295 {
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          row-gap: 20px;
+          }
+          .p-product.Flex292 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 20px;
+          }
+          .p-product.Flex287 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          .p-product.Flex288 {
+          display: flex;
+          -moz-column-gap: 20px;
+               column-gap: 20px;
+          }
+          
+          .p-product.Button37 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-product.Button38 {
+          color: #000000;
+          background-color: #ffffff;
+          padding-top: 10px;
+          padding-left: 25px;
+          padding-bottom: 10px;
+          padding-right: 25px;
+          font-size: 16px;
+          border-radius: 50px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #cccccc;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          }
+          .p-product.TextBox281 {
+          cursor: pointer;
+          }
+          .p-product.TextBox282 {
+          cursor: pointer;
+          }
+          .p-product.TextBox283 {
+          cursor: pointer;
+          }
+          .p-product.TextBox284 {
+          cursor: pointer;
+          }
+          .p-product.TextBox285 {
+          cursor: pointer;
+          }
+          .p-product.Image153 {
+          cursor: pointer;
+          }
+          .p-product.Product_Image {
+          border-radius: 50px;
+          }
+          .p-product.Product_Name {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 34px;
+          }
+          .p-product.Product_About {
+          
+          font-family: DM Sans;
+          font-weight: 400;
+          }
+          .p-product.Product_Price {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 20px;
+          }
+          .p-product.Product_Add_To_Cart {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 15px;
+          padding-left: 15px;
+          padding-bottom: 15px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 20px;
+          outline: none;
+          font-weight: 500;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          font-family: DM Sans;
+          max-width: 70%;
+          }
+          .p-product.TextBox289 {
+          width: 300px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox290 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 18px;
+          }
+          .p-product.Button40 {
+          color: #fff;
+          background-color: #FF7629;
+          padding-top: 15px;
+          padding-left: 15px;
+          padding-bottom: 15px;
+          padding-right: 15px;
+          font-size: 16px;
+          border-radius: 20px;
+          outline: none;
+          font-weight: 400;
+          text-align: center;
+          border-width: 1px;
+          border-style: none;
+          border-color: #1890ff;
+          cursor: pointer;
+          -webkit-user-select: none;
+             -moz-user-select: none;
+                  user-select: none;
+          width: 60%;
+          }
+          
+          .p-product.TextBox291 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 16px;
+          }
+          .p-product.TextBox292 {
+          width: 500px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox293 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 32px;
+          }
+          .p-product.TextBox296 {
+          padding-left: 20px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox297 {
+          padding-left: 20px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox298 {
+          padding-left: 20px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox299 {
+          width: 500px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #747474;
+          }
+          .p-product.TextBox300 {
+          width: 50%;
+          text-align: center;
+          }
+          .p-product.TextBox301 {
+          font-family: DM Sans;
+          font-weight: 700;
+          font-size: 42px;
+          }
+          .p-product.Image156 {
+          width: 130px;
+          }
+          .p-product.Image157 {
+          width: 130px;
+          }
+          .p-product.Image158 {
+          width: 100px;
+          }
+          .p-product.Image159 {
+          width: 80px;
+          box-sizing: content-box;
+          }
+          .p-product.Image160 {
+          width: 70px;
+          }
+          .p-product.Image161 {
+          width: 130px;
+          }
+          .p-product.Image162 {
+          width: 130px;
+          }
+          .p-product.Image163 {
+          width: 130px;
+          }
+          
+          .p-product.TextBox318 {
+          width: 100%;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #6a6868;
+          }
+          .p-product.Image168 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-product.Image169 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-product.Image170 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-product.Image171 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-product.Image172 {
+          width: 30px;
+          height: 30px;
+          }
+          .p-product.TextBox302 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-product.TextBox303 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox304 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox305 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox306 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox307 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox308 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox309 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox310 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox311 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox312 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox313 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox314 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox315 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox316 {
+          font-size: 16px;
+          font-family: DM Sans;
+          font-weight: 500;
+          color: #7f7c7c;
+          }
+          .p-product.TextBox317 {
+          padding-bottom: 20px;
+          padding-right: 40px;
+          font-size: 20px;
+          }
+          .p-product.TextBox319 {
+          font-family: DM Sans;
+          font-weight: 500;
+          font-size: 20px;
+          }
+          .p-product.Image164 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-product.Image165 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-product.Image166 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          .p-product.Image167 {
+          width: 145px;
+          height: 145px;
+          border-radius: 25px;
+          }
+          @media screen and (max-width: 991px) {
+              .p-product.Menu4.pt {
+          display: flex;
+              }
+              .p-product.Flex260.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          flex-direction: column;
+          background-color: #ffffff;
+          padding-left: 15px;
+          padding-right: 15px;
+          padding-top: 15px;
+          padding-bottom: 15px;
+          row-gap: 7px;
+          z-index: 5;
+              }
+              .p-product.Flex263.pt {
+          
+              }
+              .p-product.Flex261.pt {
+          -moz-column-gap: 30px;
+               column-gap: 30px;
+          
+              }
+              .p-product.Flex265.pt {
+          padding-left: 150px;
+          padding-right: 50px;
+          box-sizing: border-box;
+          width: 100%;
+          justify-content: space-between;
+              }
+              .p-product.Flex296.pt {
+          flex-direction: column;
+          row-gap: 40px;
+          align-items: center;
+              }
+          }
+          @media screen and (max-width: 767px) {
+              .p-product.Flex269.pt {
+          flex-direction: column;
+          row-gap: 10px;
+          align-items: center;
+              }
+              .p-product.Flex283.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-product.Flex284.pt {
+          flex-direction: column;
+          row-gap: 10px;
+              }
+              .p-product.Flex266.pt {
+          flex-direction: column;
+          row-gap: 20px;
+              }
+          }
+          @media screen and (max-width: 478px) {
+              .p-product.Flex265.pt {
+          padding-left: 50px;
+              }
+              .p-product.Flex266.pt {
+          padding-left: 50px;
+          padding-right: 50px;
+              }
+              
+              .p-product.Product_Image.pt {
+          width: 90%;
+              }
+              .p-product.TextBox292.pt {
+          width: 90%;
+              }
+              .p-product.TextBox299.pt {
+          width: 90%;
+              }
+          }
+          .p-extra.Flex349 {
+          display: flex;
+          height: 100%;
+          width: 100%;
+          position: fixed;
+          }
+          .p-extra.Flex350 {
+          display: flex;
+          width: 40%;
+          background-color: #ffffff;
+          flex-direction: column;
+          }
+          .p-extra.Flex351 {
+          display: flex;
+          justify-content: space-between;
+          padding-left: 20px;
+          padding-right: 20px;
+          font-family: DM Sans;
+          font-weight: italic;
+          font-size: 20px;
+          color: #737272;
+          padding-top: 20px;
+          border-bottom-style: solid;
+          border-bottom-color: #a9a9a9;
+          padding-bottom: 5px;
+          align-items: center;
+          margin-bottom: 20px;
+          }
+          .p-extra.Flex352 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 15px;
+          }
+          .p-extra.Flex353 {
+          display: flex;
+          -moz-column-gap: 2px;
+               column-gap: 2px;
+          justify-content: space-between;
+          align-items: center;
+          padding-right: 20px;
+          padding-left: 20px;
+          }
+          .p-extra.Flex358 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 5px;
+          }
+          .p-extra.Flex360 {
+          display: flex;
+          -moz-column-gap: 2px;
+               column-gap: 2px;
+          justify-content: space-between;
+          align-items: center;
+          padding-right: 20px;
+          padding-left: 20px;
+          }
+          .p-extra.Flex359 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 5px;
+          }
+          .p-extra.Flex362 {
+          display: flex;
+          -moz-column-gap: 2px;
+               column-gap: 2px;
+          justify-content: space-between;
+          align-items: center;
+          padding-right: 20px;
+          padding-left: 20px;
+          }
+          .p-extra.Flex361 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 5px;
+          }
+          .p-extra.Flex364 {
+          display: flex;
+          -moz-column-gap: 2px;
+               column-gap: 2px;
+          justify-content: space-between;
+          align-items: center;
+          padding-right: 20px;
+          padding-left: 20px;
+          }
+          .p-extra.Flex363 {
+          display: flex;
+          flex-direction: column;
+          row-gap: 5px;
+          }
+          
+          .p-extra.TextBox369 {
+          font-size: 16px;
+          }
+          .p-extra.Cart_Image_1 {
+          width: 80px;
+          height: 80px;
+          border-radius: 10px;
+          }
+          .p-extra.Cart_Quant_1 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 4px;
+          padding-left: 11px;
+          padding-bottom: 4px;
+          padding-right: 11px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 2px;
+          width: 10px;
+          margin-left: 130px;
+          }
+          
+          .p-extra.TextBox371 {
+          cursor: pointer;
+          color: #FF7629;
+          }
+          
+          .p-extra.Cart_Quant_2 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 4px;
+          padding-left: 11px;
+          padding-bottom: 4px;
+          padding-right: 11px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 2px;
+          width: 10px;
+          margin-left: 130px;
+          }
+          .p-extra.Cart_Image_2 {
+          width: 80px;
+          height: 80px;
+          border-radius: 10px;
+          }
+         
+          .p-extra.TextBox374 {
+          cursor: pointer;
+          color: #FF7629;
+          }
+          
+          .p-extra.Cart_Quant_3 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 4px;
+          padding-left: 11px;
+          padding-bottom: 4px;
+          padding-right: 11px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 2px;
+          width: 10px;
+          margin-left: 130px;
+          }
+          .p-extra.Cart_Image_3 {
+          width: 80px;
+          height: 80px;
+          border-radius: 10px;
+          }
+         
+          .p-extra.TextBox377 {
+          cursor: pointer;
+          color: #FF7629;
+          }
+         
+          .p-extra.Cart_Quant_4 {
+          box-sizing: border-box;
+          font-variant: tabular-nums;
+          font-feature-settings: tnum, "tnum";
+          padding-top: 4px;
+          padding-left: 11px;
+          padding-bottom: 4px;
+          padding-right: 11px;
+          color: #000000d9;
+          font-size: 14px;
+          background-color: #fff;
+          background-image: none;
+          border-width: 1px;
+          border-style: solid;
+          border-color: #d9d9d9;
+          border-radius: 2px;
+          width: 10px;
+          margin-left: 130px;
+          }
+          .p-extra.Cart_Image_4 {
+          width: 80px;
+          height: 80px;
+          border-radius: 10px;
+          }
+         
+          
+          .p-extra.TextBox380 {
+          cursor: pointer;
+          color: #FF7629;
+          }
+          
+          
